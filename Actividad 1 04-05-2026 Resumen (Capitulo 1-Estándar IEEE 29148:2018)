@@ -1,0 +1,35 @@
+CAPITULO 1 (RESUMEN-Estándar IEEE 29148:2018)
+
+El capítulo 1 del Estándar IEEE indica que este se define a través de una serie de puntos
+claves como los procesos de ingeniería, guía de aplicación, ítems de información y
+contenido y formato. Estos puntos claves nos ayudan a comprender los procesos
+necesarios para las actividades de ingeniería que generan requisitos para un producto o
+sistema, proporcionar lineamientos para relacionar procesos con requisitos, determinar
+elementos de información y definir contenido y ofrecer guías sobre el formato que se debe
+seguir.
+Este capítulo tiene como objetivo definir el universo de aplicación estándar para el
+desarrollo de un producto por medio de tres pilares fundamentales.
+
+● Aplicación en el ciclo de vida: Identifica y analiza las necesidades para luego
+transformarlas y gestionarlas.
+● Definición de ítems información: qué debe contener la documentación de
+requisitos.
+● Universalidad y flexibilidad: No es dependiente.
+
+Para que un sistema o producto pueda cumplir con todos los procesos y se considere
+“conocido” o bien definido bajo este estándar, debe de cumplir o clasificar los requisitos
+según el origen y el propósito técnico, teniendo en cuenta los siguiente tipos de requisitos.
+
+● Requisitos de Negocio (Business Requirements).
+Se definen las metas con mayor nivel de importancia de la organización que
+patrocina el proyecto.
+● Requisitos de Partes Interesadas (Stakeholder Requirements).
+Se describe que es lo que los usuarios y operadores esperan obtener al interactuar
+con el sistema.
+● Requisitos de Sistema (System Requirements).
+se indica el cómo se debe de comportar el sistema una vez completo.
+● Requisitos de Software (Software Requirements).
+Se detallan de manera clara las funciones específicas que el código debe ejecutar.
+● Requisitos Funcionales y de Rendimiento (Functional & Performance).
+Se enfoca en definir la acción a realizar y colocar una métrica adecuada para el
+rendimiento de dicha acción.
