@@ -1,0 +1,7 @@
+echo "# REPOS-ALVIA-ERICK-IR-4TO-A-" >> README.md 
+git init 
+git add README.md 
+git commit -m "primer commit" 
+git branch -M main 
+git remote add origin https://github.com/Erick-Alvia/REPOS-ALVIA-ERICK-IR-4TO-A-.git
+ git push -u origin main
